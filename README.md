@@ -6,5 +6,3 @@
 - Motherboard
 - RAM
 - Power Supply
-- SSD
-- Case
