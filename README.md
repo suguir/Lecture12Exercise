@@ -2,7 +2,7 @@
 
 ## List of computer parts
 - CPU
-- GPU
+- Graphics card
 - Motherboard
 - RAM
 - Power Supply
